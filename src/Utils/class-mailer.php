@@ -11,9 +11,9 @@ use WP_Site;
  *
  * @author    DLAM Applications Development Team <ltw-apps-dev@ed.ac.uk>
  * @copyright University of Edinburgh
- * @license   https://www.gnu.org/licenses/gpl.html
+ * @license   http://mit-license.org/
  *
- * @link https://gitlab.is.ed.ac.uk/is-dlam/academic-blogging-project/ed-student-post-alerts
+ * @link https://github.com/uoe-dlam/ed-activity-notifications
  */
 class Mailer {
 
